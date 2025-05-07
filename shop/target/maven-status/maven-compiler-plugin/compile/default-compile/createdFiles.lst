@@ -1,0 +1,3 @@
+com\example\beststore\controllers\ProductsController.class
+com\example\beststore\services\ProductsRepository.class
+com\example\beststore\models\Product.class
